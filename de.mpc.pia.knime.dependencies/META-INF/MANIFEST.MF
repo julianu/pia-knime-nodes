@@ -86,7 +86,7 @@ Bundle-Version: 1.4.7.qualifier
 Bundle-Vendor: 
  Ruhr University Bochum, Medical Bioinformatics
 Require-Bundle: org.knime.core;bundle-version="[4.0.0,5.0.0)",
- org.knime.base.filehandling;bundle-version="[4.0.0,5.0.0)";visibility:=reexport,
+ org.knime.base.filehandling;visibility:=reexport,
  org.apache.axis;bundle-version="1.4.0",
  org.apache.commons.cli;bundle-version="1.4.0",
  org.apache.commons.codec;bundle-version="1.14.0",
